@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdcrowe23
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning the fundamentals of frontend dev
+- 🌱 I’m currently learning the fundamentals of front-end development
 - 💞️ I’m looking to collaborate on ... mostly frontend proejects
 - 📫 How to reach me ... err.. here?
 
