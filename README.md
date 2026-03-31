@@ -1,8 +1,11 @@
 # Hi, I'm Scottie 👋
 
-### 🤖 Claude Wrangler | "Developer" (Strictly in Quotes)
+### 🤖 Claude Wrangler | Architect of Prompts | "Developer" (Strictly in Quotes)
 
+**Current Status:** Playing developer until the AI takes over completely.
 **The Mission:** I’m here for the Claude. 
+
+- 📂 **Repository contents:** Mostly things I "wrote" while caffeinated and talking to a chatbot.
 
 **My Workflow:**
 1. I have a vision.
