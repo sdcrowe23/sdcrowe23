@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @sdcrowe23
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning the fundamentals of front-end development
-- 💞️ I’m looking to collaborate on ... mostly frontend proejects
-- 📫 How to reach me ... err.. here?
+# Hi, I'm Scottie 👋
 
-<!---
-sdcrowe23/sdcrowe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤖 Claude Wrangler | "Developer" (Strictly in Quotes)
+
+**The Mission:** I’m here for the Claude. 
+
+**My Workflow:**
+1. I have a vision.
+2. I describe the vision to an LLM.
+3. I copy-paste the vision.
+4. If it breaks, I tell the LLM it hurt my feelings until it fixes it.
+
+**Tech Stack:**
+- **Primary Language:** English (High-Level Prompting)
+- **Secondary Language:** Hope & Coffee
+- **Hardware:** MacBook Big Sur (vintage, I know)
+- **Engine:** Anthropic’s finest silicon
+
+> "I don't write code. I curate vibes." — Me, probably.
